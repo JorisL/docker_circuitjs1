@@ -18,3 +18,8 @@ Docker image for CircuitJS1 (Electronic Circuit Simulator in the Browser) - http
 
 ## Usage
 Open [http://localhost:8080](http://localhost:8080) in the browser.
+
+## Links
+- [Github repo](https://github.com/JorisL/docker_circuitjs1)
+- [Docker Hub](https://hub.docker.com/r/jorisl42/docker_circuitjs1)
+- [CircuitJS1](https://github.com/sharpie7/circuitjs1)
