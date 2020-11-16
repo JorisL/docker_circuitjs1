@@ -11,7 +11,7 @@ Docker image for CircuitJS1 (Electronic Circuit Simulator in the Browser) - http
 ### Docker Compose
     circuitjs1:
       image: "jorisl42/docker_circuitjs1"
-      name: circuitjs1
+      container_name: circuitjs1
       restart: unless-stopped
       ports:
         - "8080:80"
